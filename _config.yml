@@ -16,3 +16,4 @@ include:
   - linux/*.md
 title: skyarrow's notebook
 heme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
