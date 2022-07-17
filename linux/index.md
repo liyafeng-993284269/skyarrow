@@ -1,2 +1,2 @@
 # linux总结
-[goback item](../index.md)
+[goback item](../README.md)
