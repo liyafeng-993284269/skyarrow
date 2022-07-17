@@ -6,7 +6,6 @@ relative_links:
 include:
   - CONTRIBUTING.md
   - README.md
-  - index.md
   - LICENSE.md
   - COPYING.md
   - CODE_OF_CONDUCT.md
@@ -14,4 +13,4 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 title: skyarrow's notebook
-heme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
