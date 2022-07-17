@@ -12,6 +12,7 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-  - ./**/*
+  - agorithms/*.md
+  - linux/*.md
 title: skyarrow's notebook
 heme: jekyll-theme-cayman
