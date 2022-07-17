@@ -15,3 +15,4 @@ include:
   - ./**/*
 title: skyarrow's notebook
 heme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
